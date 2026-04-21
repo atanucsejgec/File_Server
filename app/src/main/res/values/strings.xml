@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalShare</string>
+    <string name="server_started">Server started successfully</string>
+    <string name="server_stopped">Server stopped</string>
+    <string name="no_wifi">Please connect to WiFi first</string>
+    <string name="permission_required">Storage permission required</string>
+    <string name="notification_channel_name">File Server</string>
+    <string name="notification_title">LocalShare Active</string>
+    <string name="notification_text">Server is running</string>
+</resources>
