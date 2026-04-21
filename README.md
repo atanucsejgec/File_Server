@@ -17,7 +17,7 @@
 Access, manage, stream, and transfer your files from any browser
 on your local network — no cables, no apps, no limits.
 
-[![Download APK](https://img.shields.io/badge/⬇️%20Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/10NjVeSOM4ILCU9USsPxAj88aB7peLput/view?usp=sharing)
+[![Download APK](https://img.shields.io/badge/⬇️%20Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1Pcy3T98kIuYMelswqC-w-M6W7IuWy4-y/view?usp=sharing)
 
 [✨ Features](#-features) • [🏗️ Architecture](#%EF%B8%8F-architecture) • [📡 API Reference](#-api-reference) • [⚡ Performance](#-performance-tuning) • [📲 Download](#-download--install)
 
@@ -31,9 +31,9 @@ on your local network — no cables, no apps, no limits.
 
 ### ⬇️ Get the Latest APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20Latest-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/10NjVeSOM4ILCU9USsPxAj88aB7peLput/view?usp=sharing)
+[![Download APK](https://img.shields.io/badge/Download-APK%20Latest-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1Pcy3T98kIuYMelswqC-w-M6W7IuWy4-y/view?usp=sharing)
 
-> 🔗 **Direct Link:** [https://drive.google.com/file/d/10NjVeSOM4ILCU9USsPxAj88aB7peLput/view?usp=sharing](https://drive.google.com/file/d/10NjVeSOM4ILCU9USsPxAj88aB7peLput/view?usp=sharing)
+> 🔗 **Direct Link:** [https://drive.google.com/file/d/1Pcy3T98kIuYMelswqC-w-M6W7IuWy4-y/view?usp=sharing](https://drive.google.com/file/d/1Pcy3T98kIuYMelswqC-w-M6W7IuWy4-y/view?usp=sharing)
 
 </div>
 
@@ -217,7 +217,7 @@ MIT License — Copyright (c) 2024 Local Share
 
 **Made with ❤️ and Kotlin**
 
-[![Download APK](https://img.shields.io/badge/⬇️%20Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/10NjVeSOM4ILCU9USsPxAj88aB7peLput/view?usp=sharing)
+[![Download APK](https://img.shields.io/badge/⬇️%20Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1Pcy3T98kIuYMelswqC-w-M6W7IuWy4-y/view?usp=sharing)
 
 ⭐ Star this repo if Local Share saved you a USB cable ⭐
 
